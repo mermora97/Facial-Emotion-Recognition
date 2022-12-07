@@ -22,3 +22,5 @@ customer-facing businesses.
 
 The data set consists of 3 folders, i.e., 'test', 'train', and 'validation'. Each of these folders has four subfolders for the different emotions to be recognized: ‘happy’, ‘sad’, ‘surprise’ and ‘neutral’.
 The images are RGB “white and black” images of size 48x48 pixels. 
+
+!(Dataset images.png)[https://github.com/mermora97/Facial-Emotion-Recognition/blob/main/Dataset%20images.png]
